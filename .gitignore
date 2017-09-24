@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# dataset
+/Credit_Card_Fraud_Detection/*.csv
